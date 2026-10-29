@@ -32,3 +32,8 @@ Proyecto educativo individual.
 
 El ministro anuncia que se estudiará
 la posibilidad de cumplir alguna promesa.
+
+
+## El Ministerio sobrevive al cambio de ordenador
+
+El repositorio se ha clonado correctamente en otro directorio, conservando sus archivos y el historial de commits.
